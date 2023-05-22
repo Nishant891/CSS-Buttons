@@ -3,7 +3,7 @@ Here are buttons from different MNC's and institutions websites.
 I did it as an exercise from the SuperSimpleDev from youtube.
 A small step towards becoming a better web - developer.
 
-##It contains buttons from following organizations
+## It contains buttons from following organizations
 ### 1. YouTube
 ### 2. Twitter
 ### 3. GitHub
@@ -13,4 +13,4 @@ A small step towards becoming a better web - developer.
 ### 7. Uber
 ### 8. Bootstrap
 
-###And a few customized buttons
+## And a few customized buttons
